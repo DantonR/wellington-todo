@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "place_name": "Zealandia",
+        "lat": -41.290157,
+        "lng": 174.753494,
+        "description": "Wildlife sanctuary with native species, including rare birds, lizards, frogs, plants & trees."
+    },
+    {
+        "id": 2,
+        "place_name": "The Weta Cave",
+        "lat": -41.306423,
+        "lng": 174.824291,
+        "description": "tesst"
+    },
+    {
+        "id": 3,
+        "place_name": "Cable Car",
+        "lat": -41.284050,
+        "lng": 174.775113,
+        "description": "text"
+    },
+    {
+        "id": 4,
+        "place_name": "Space Place at Carter Observatory",
+        "lat": -41.284329,
+        "lng": 174.767096,
+        "description": "text"
+    },
+    {
+        "id": 5,
+        "place_name": "Wellington Zoo",
+        "lat": -41.319543,
+        "lng": 174.784643,
+        "description": "text"
+    },
+    {
+        "id": 6,
+        "place_name": "City Gallery",
+        "lat": -41.288558,
+        "lng": 174.777267,
+        "description": "text"
+    },
+    {
+        "id": 7,
+        "place_name": "Otari-Wilton's Bush",
+        "lat": -41.267101,
+        "lng": 174.757129,
+        "description": "text"
+    },
+    {
+        "id": 8,
+        "place_name": "Embassy Theatre",
+        "lat": -41.294320,
+        "lng": 174.784058,
+        "description": "text"
+    },
+    {
+        "id": 9,
+        "place_name": "Mount Victoria Lookout",
+        "lat": -41.296057,
+        "lng": 174.794310,
+        "description": "text"
+    },
+    {
+        "id": 10,
+        "place_name": "Dowse Art Museum",
+        "lat": -41.211751,
+        "lng": 174.904493,
+        "description": "text"
+    }
+]

@@ -1,0 +1,31 @@
+#container {
+    float: left;
+    width: 20%;
+    max-height: 100%;
+    overflow: scroll;
+}
+
+.padding {
+    padding: 10px;
+}
+
+h2 {
+    margin: 4px;
+}
+
+h3 {
+    font-family: 'Oswald';
+    text-transform: uppercase;
+}
+
+#map {
+    float: left;
+    height: 100%;
+    width: 80%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
